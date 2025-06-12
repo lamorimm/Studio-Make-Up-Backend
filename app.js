@@ -12,47 +12,47 @@ app.get("/api/produtos", (req, res) => {
     {
       nome: "Gloss Kiko",
       preco: 89.99,
-      imagem: "img/gloss kiko.webp",
+      imagem: "https://studio-makeup.netlify.app/img/gloss%20kiko.webp",
     },
     {
       nome: "Base Liquida Kiko",
       preco: 195.5,
-      imagem: "img/base kiko.webp",
+      imagem: "https://studio-makeup.netlify.app/img/base%20kiko.webp",
     },
     {
       nome: "Máscara de Cílios Kiko",
       preco: 77.92,
-      imagem: "img/rimel kiko.webp",
+      imagem: "https://studio-makeup.netlify.app/img/rimel%20kiko.webp",
     },
     {
       nome: "Spray Fixador Kiko",
       preco: 65.93,
-      imagem: "img/fixador.webp",
+      imagem: "https://studio-makeup.netlify.app/img/fixador.webp",
     },
     {
       nome: "Batom MAC",
       preco: 139.9,
-      imagem: "img/batom.webp",
+      imagem: "https://studio-makeup.netlify.app/img/fixador.webp",
     },
     {
       nome: "Blush Benefit",
       preco: 139.0,
-      imagem: "img/base kiko.webp",
+      imagem: "https://studio-makeup.netlify.app/img/base%20kiko.webp",
     },
     {
       nome: "Paleta Naked Urban Decay",
       preco: 399.9,
-      imagem: "img/paleta.jpg",
+      imagem: "https://studio-makeup.netlify.app/img/paleta.jpg",
     },
     {
       nome: "Pinceis Real Techniques",
       preco: 350.9,
-      imagem: "img/pinceis.png",
+      imagem: "https://studio-makeup.netlify.app/img/pinceis.png",
     },
     {
       nome: "Delineador Kiko azul",
       preco: 159.9,
-      imagem: "img/delineador.webp",
+      imagem: "https://studio-makeup.netlify.app/img/delineador.webp",
     },
   ]);
 });
