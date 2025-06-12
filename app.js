@@ -12,47 +12,47 @@ app.get("/api/produtos", (req, res) => {
     {
       nome: "Gloss Kiko",
       preco: 89.99,
-      imagem: "img/gloss kiko.webp",
+      imagem: "assets/gloss kiko.webp",
     },
     {
       nome: "Base Liquida Kiko",
       preco: 195.5,
-      imagem: "img/base kiko.webp",
+      imagem: "assets/base kiko.webp",
     },
     {
       nome: "Máscara de Cílios Kiko",
       preco: 77.92,
-      imagem: "img/rimel kiko.webp",
+      imagem: "assets/rimel kiko.webp",
     },
     {
       nome: "Spray Fixador Kiko",
       preco: 65.93,
-      imagem: "img/fixador.webp",
+      imagem: "assets/fixador.webp",
     },
     {
       nome: "Batom MAC",
       preco: 139.9,
-      imagem: "img/batom.webp",
+      imagem: "assets/batom.webp",
     },
     {
       nome: "Blush Benefit",
       preco: 139.0,
-      imagem: "img/base kiko.webp",
+      imagem: "assets/base kiko.webp",
     },
     {
       nome: "Paleta Naked Urban Decay",
       preco: 399.9,
-      imagem: "img/paleta.jpg",
+      imagem: "assets/paleta.jpg",
     },
     {
       nome: "Pinceis Real Techniques",
       preco: 350.9,
-      imagem: "img/pinceis.png",
+      imagem: "assets/pinceis.png",
     },
     {
       nome: "Delineador Kiko azul",
       preco: 159.9,
-      imagem: "img/delineador.webp",
+      imagem: "assets/delineador.webp",
     },
   ]);
 });
